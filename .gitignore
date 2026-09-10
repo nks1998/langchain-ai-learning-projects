@@ -1,0 +1,33 @@
+# Python virtual environments
+env/
+.venv/
+venv/
+ENV/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit local configuration and cache
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Tooling and editor files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store

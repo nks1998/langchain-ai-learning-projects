@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+python-dotenv
+streamlit
+pydantic
+langchain_openai
+langgraph
+langchain_community
+pypdf
+beautifulsoup4
+wikipedia
+langchain_text_splitters
+langchain_chroma
